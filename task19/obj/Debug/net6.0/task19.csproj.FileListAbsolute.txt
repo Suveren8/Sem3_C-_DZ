@@ -1,0 +1,15 @@
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 3\Sem_3_DZ\task19\bin\Debug\net6.0\task19.exe
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 3\Sem_3_DZ\task19\bin\Debug\net6.0\task19.deps.json
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 3\Sem_3_DZ\task19\bin\Debug\net6.0\task19.runtimeconfig.json
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 3\Sem_3_DZ\task19\bin\Debug\net6.0\task19.dll
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 3\Sem_3_DZ\task19\bin\Debug\net6.0\task19.pdb
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 3\Sem_3_DZ\task19\obj\Debug\net6.0\task19.csproj.AssemblyReference.cache
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 3\Sem_3_DZ\task19\obj\Debug\net6.0\task19.GeneratedMSBuildEditorConfig.editorconfig
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 3\Sem_3_DZ\task19\obj\Debug\net6.0\task19.AssemblyInfoInputs.cache
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 3\Sem_3_DZ\task19\obj\Debug\net6.0\task19.AssemblyInfo.cs
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 3\Sem_3_DZ\task19\obj\Debug\net6.0\task19.csproj.CoreCompileInputs.cache
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 3\Sem_3_DZ\task19\obj\Debug\net6.0\task19.dll
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 3\Sem_3_DZ\task19\obj\Debug\net6.0\refint\task19.dll
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 3\Sem_3_DZ\task19\obj\Debug\net6.0\task19.pdb
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 3\Sem_3_DZ\task19\obj\Debug\net6.0\task19.genruntimeconfig.cache
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 3\Sem_3_DZ\task19\obj\Debug\net6.0\ref\task19.dll
